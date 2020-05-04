@@ -20,4 +20,4 @@
 
 ## **PHOTOS**
 
- ![alt text](https://github.com/samedsay/PROJECTS/edit/master/GeneratingShapes/Screenshot from 2020-05-05 00-17-42.png)
+ ![alt text](https://github.com/samedsay/PROJECTS/blob/master/GeneratingShapes/First.png "Painting Modul")
