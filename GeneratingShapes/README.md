@@ -20,5 +20,4 @@
 
 ## **PHOTOS**
 
- ![alt text][logo]
- [logo]: (GeneratingShapes/Screenshot from 2020-05-05 00-17-42.png)
+ ![alt text](GeneratingShapes/Screenshot from 2020-05-05 00-17-42.png)
