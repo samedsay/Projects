@@ -17,3 +17,7 @@
   * Modules are understood as two parts of an application. 
   * It does not implicate necessity of using modules or packages available by Java language.
   * Format of a saved file is determined by a student. One cannot use “Object Streams” classes.
+
+## **PHOTOS**
+
+ ![GitHub Logo](/images/logo.png)
