@@ -5,7 +5,7 @@
   * The element has to have a proper location and dimension, so it fits in the window.
   * Resizing a window is followed by rescaling all drawn elements.
   * Program has to save information about generated shapes to a file.
-  *  ![alt text](https://github.com/samedsay/PROJECTS/blob/master/GeneratingShapes/First.png "Painting Modul")
+   ![alt text](https://github.com/samedsay/PROJECTS/blob/master/GeneratingShapes/First.png "Painting Modul")
   
 ## **DISPLAYING MODUL**
 
