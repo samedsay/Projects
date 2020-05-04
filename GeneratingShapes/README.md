@@ -8,9 +8,9 @@
     ### Random Shapes:
     ![alt text](https://github.com/samedsay/PROJECTS/blob/master/GeneratingShapes/First.png "Painting Modul")
     ### Resizible Shapes:
-    ![alt text](https://github.com/samedsay/PROJECTS/blob/master/GeneratingShapes/Second.png "Painting Modul")
+    ![alt text](https://github.com/samedsay/PROJECTS/blob/master/GeneratingShapes/Second.png "Resizible Modul")
     ### Information of Shapes:
-    ![alt text](https://github.com/samedsay/PROJECTS/blob/master/GeneratingShapes/Third.png "Painting Modul")
+    ![alt text](https://github.com/samedsay/PROJECTS/blob/master/GeneratingShapes/Third.png "SaveInfo Modul")
 
 
 ## **DISPLAYING MODUL**
