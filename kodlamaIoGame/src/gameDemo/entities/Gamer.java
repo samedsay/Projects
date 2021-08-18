@@ -1,4 +1,4 @@
-package gameDemo.entities.concretes;
+package gameDemo.entities;
 
 public class Gamer {
 
