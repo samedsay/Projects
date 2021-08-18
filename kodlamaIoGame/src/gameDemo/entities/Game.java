@@ -1,24 +1,22 @@
 package gameDemo.entities;
 
 public class Game {
-	
+
 	private int gameId;
 	private String gameName;
 	private double unitPrice;
 	private int stockAmount;
-	private int discountAmount;
-	
+
 	public Game() {
-		
+
 	}
-	
-	public Game(int id, String name, double unitPrice, int stockAmount, int discountAmount) {
+
+	public Game(int id, String name, double unitPrice, int stockAmount) {
 		super();
 		this.gameId = id;
 		this.gameName = name;
 		this.unitPrice = unitPrice;
 		this.stockAmount = stockAmount;
-		this.setDiscountAmount(discountAmount);
 	}
 
 	public int getId() {
@@ -52,18 +50,5 @@ public class Game {
 	public void setStockAmount(int stockAmount) {
 		this.stockAmount = stockAmount;
 	}
-
-	public int getDiscountAmount() {
-		return discountAmount;
-	}
-
-	public void setDiscountAmount(int discountAmount) {
-		this.discountAmount = discountAmount;
-	}
-	
-	
-	
-	
-	
 
 }

@@ -1,17 +1,19 @@
 package gameDemo.entities;
 
+import java.time.LocalDate;
+
 public class Gamer {
 
 	private int id;
 	private String firstName;
 	private String lastName;
-	private String birthday;
+	private LocalDate birthday;
 
 	public Gamer() {
 
 	}
 
-	public Gamer(int id, String firstName, String lastName, String birthday) {
+	public Gamer(int id, String firstName, String lastName, LocalDate birthday) {
 		super();
 		this.id = id;
 		this.firstName = firstName;
@@ -43,11 +45,11 @@ public class Gamer {
 		this.lastName = lastName;
 	}
 
-	public String getBirthday() {
+	public LocalDate getBirthday() {
 		return birthday;
 	}
 
-	public void setBirthday(String birthday) {
+	public void setBirthday(LocalDate birthday) {
 		this.birthday = birthday;
 	}
 

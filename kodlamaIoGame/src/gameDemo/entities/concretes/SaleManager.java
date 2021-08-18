@@ -16,7 +16,7 @@ public class SaleManager implements SaleService{
 	@Override
 	public void campaignSale(Gamer gamer, Game game, Campaign campaign) {
 		System.out.println(game.getName() + " has been sold to " + gamer.getFirstName() 
-		+ " for " + (game.getUnitPrice() - (game.getUnitPrice() * game.getDiscountAmount() / 100.0)));
+		+ " for " + (game.getUnitPrice() - (game.getUnitPrice() * campaign.getCampaignDiscount() / 100.0)));
 	}
 
 }
