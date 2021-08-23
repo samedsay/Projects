@@ -8,6 +8,7 @@ public class GamerCheckerManager implements GamerCheckService {
 	@Override
 	public boolean checkIfRealPerson(Gamer gamer) {
 		return true;
+
 	}
 
 }
