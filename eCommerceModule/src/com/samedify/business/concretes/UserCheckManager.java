@@ -85,7 +85,14 @@ public class UserCheckManager implements UserCheckService {
 
 	@Override
 	public boolean checkIsValid(User user) {
-		// TODO Auto-generated method stub
+
+		if (checkIfFirstName(user) && checkIfLastName(user) && checkIfEmail(user) && checkIfPassword(user)
+				&& checkIfUnique(user)) {
+
+			return true;
+
+		}
+
 		return false;
 	}
 
