@@ -14,6 +14,6 @@ public interface UserCheckService {
 
 	boolean checkIfUnique(User user);
 
-	boolean checkIfValid(User user);
+	boolean checkIsValid(User user);
 
 }
