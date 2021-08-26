@@ -26,7 +26,7 @@ public class Main2 {
                 int newValue = scanner.nextInt();
                 array.add(index, newValue);
             }
-           
+      
         }
         for(int x : array)
             System.out.print(x + " ");    
