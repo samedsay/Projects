@@ -20,12 +20,28 @@ public class ClassPassing {
 		int music = scanner.nextInt();
 		
 		int courseNumber = 0;
-		if(math < 0 )
 		
-		int totalAverage = (math + physical + literature + chemistry + music) / 5; 
+		if(math >= 0 && math <= 100)
+			courseNumber++;
+		if(physical >= 0 && physical <= 100)
+			courseNumber++;
+		if(literature >= 0 && literature <= 100)
+			courseNumber++;
+		if(chemistry >= 0 && chemistry <= 100)
+			courseNumber++;
+		if(music >= 0 && music <= 100)
+			courseNumber++;
 		
-		if(totalAverage > 55) {
-			
+		
+		
+		
+		int average = (math + physical + literature + chemistry + music) / courseNumber; 
+		
+		if(average > 55) {
+			System.out.println("Passed!");
+		}else {
+			System.out.println("Failed!");
+
 		}
 
 	}
