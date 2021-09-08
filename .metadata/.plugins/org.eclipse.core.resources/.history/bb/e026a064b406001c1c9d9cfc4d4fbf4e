@@ -1,5 +1,0 @@
-package com.samedify.core;
-
-public interface GoogleService {
-
-}
