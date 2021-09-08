@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="/Users/abdulsamed/Library/Java/JavaVirtualMachines/openjdk-14.0.1/Contents/Home" version="14.0.1"/>
+    <libraryInfo home="/Users/abdulsamed/Library/Java/JavaVirtualMachines/corretto-1.8.0_252/Contents/Home" version="1.8.0_252">
+        <bootpath>
+            <entry path="/Users/abdulsamed/Library/Java/JavaVirtualMachines/corretto-1.8.0_252/Contents/Home/jre/lib/resources.jar"/>
+            <entry path="/Users/abdulsamed/Library/Java/JavaVirtualMachines/corretto-1.8.0_252/Contents/Home/jre/lib/rt.jar"/>
+            <entry path="/Users/abdulsamed/Library/Java/JavaVirtualMachines/corretto-1.8.0_252/Contents/Home/jre/lib/sunrsasign.jar"/>
+            <entry path="/Users/abdulsamed/Library/Java/JavaVirtualMachines/corretto-1.8.0_252/Contents/Home/jre/lib/jsse.jar"/>
+            <entry path="/Users/abdulsamed/Library/Java/JavaVirtualMachines/corretto-1.8.0_252/Contents/Home/jre/lib/jce.jar"/>
+            <entry path="/Users/abdulsamed/Library/Java/JavaVirtualMachines/corretto-1.8.0_252/Contents/Home/jre/lib/charsets.jar"/>
+            <entry path="/Users/abdulsamed/Library/Java/JavaVirtualMachines/corretto-1.8.0_252/Contents/Home/jre/lib/jfr.jar"/>
+            <entry path="/Users/abdulsamed/Library/Java/JavaVirtualMachines/corretto-1.8.0_252/Contents/Home/jre/classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="/Users/abdulsamed/Library/Java/Extensions"/>
+            <entry path="/Users/abdulsamed/Library/Java/JavaVirtualMachines/corretto-1.8.0_252/Contents/Home/jre/lib/ext"/>
+            <entry path="/Library/Java/Extensions"/>
+            <entry path="/Network/Library/Java/Extensions"/>
+            <entry path="/System/Library/Java/Extensions"/>
+            <entry path="/usr/lib/java"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="/Users/abdulsamed/Library/Java/JavaVirtualMachines/corretto-1.8.0_252/Contents/Home/jre/lib/endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+</libraryInfos>

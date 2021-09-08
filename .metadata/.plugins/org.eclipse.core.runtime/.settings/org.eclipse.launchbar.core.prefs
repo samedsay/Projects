@@ -1,0 +1,12 @@
+LaunchTargetManager/configs/ClassPassing=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/NorthwindApplication=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/UserAccess=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=macosx
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Main,org.eclipse.launchbar.core.descriptorType.default\:Main (1),org.eclipse.launchbar.core.descriptorType.default\:Main2,org.eclipse.launchbar.core.descriptorType.default\:Main (2),org.eclipse.launchbar.core.descriptorType.default\:UserAccess,org.eclipse.launchbar.core.descriptorType.default\:NorthwindApplication,org.eclipse.launchbar.core.descriptorType.default\:ClassPassing,org.eclipse.launchbar.core.descriptorType.default\:Server,org.eclipse.launchbar.core.descriptorType.default\:Client
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Main/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Main/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Main2/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Main2/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

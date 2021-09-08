@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.debug.ui.detail_formatters=org.eclipse.scout.rt.dataobject.IDataObject,return org.eclipse.scout.rt.platform.BEANS.get(org.eclipse.scout.rt.dataobject.IPrettyPrintDataObjectMapper.class).writeValue(this);,1

@@ -1,0 +1,5 @@
+package com.samedify.entities.concretes;
+
+public class User {
+
+}

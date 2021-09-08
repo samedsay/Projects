@@ -1,0 +1,23 @@
+package com.samedify.business.concretes;
+
+import com.samedify.business.abstracts.UserService;
+import com.samedify.dataAccess.abstracts.UserDao;
+import com.samedify.entities.concretes.User;
+
+public class UserManager implements UserService {
+	
+	UserDao userDao = new UserDao();
+
+	@Override
+	public void signUp(User user) {
+		
+	}
+
+	@Override
+	public void signIn(User user) {
+		
+	}
+	
+	
+
+}
