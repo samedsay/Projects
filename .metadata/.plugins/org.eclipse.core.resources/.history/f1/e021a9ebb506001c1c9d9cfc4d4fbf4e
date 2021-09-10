@@ -1,5 +1,0 @@
-package com.samedify.business.abstracts;
-
-public interface MailVerificationService {
-
-}
