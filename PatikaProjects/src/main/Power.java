@@ -1,6 +1,7 @@
 package main;
 
 import java.util.Scanner;
+import java.util.function.BiConsumer;
 
 public class Power {
 
@@ -17,7 +18,8 @@ public class Power {
 		for (int i = 1; i < threshold; i *= 5) {
 			System.out.print(i + " ");
 		}
-
+		
+		//int multiple = (10, 10) -> b*c;
 	}
 
 }

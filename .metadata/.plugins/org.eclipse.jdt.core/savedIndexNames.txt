@@ -3,7 +3,6 @@ INDEX VERSION 1.131+/Users/abdulsamed/Documents/GitHub/.metadata/.plugins/org.ec
 1431619515.index
 430434351.index
 4249585848.index
-928420.index
 3610380936.index
 1375551599.index
 1927411294.index
